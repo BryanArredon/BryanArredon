@@ -10,7 +10,7 @@
 
 ¡Hola! Soy Bryan Emilio, un apasionado estudiante de **Desarrollo de Software** con una gran curiosidad por la tecnología.  
 Me encanta combinar el mundo físico y digital a través de proyectos con **hardware, software e inteligencia práctica**.  
-🔌 Siempre estoy en busca de nuevos retos donde pueda aplicar lo que aprendo y mejorar mis habilidades técnicas y creativas.
+Siempre estoy en busca de nuevos retos donde pueda aplicar lo que aprendo y mejorar mis habilidades técnicas y creativas.
 
 ---
 
@@ -41,7 +41,7 @@ Me encanta combinar el mundo físico y digital a través de proyectos con **hard
 
 ---
 
-## 📈 Mis estadísticas
+## Mis estadísticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GusGalvan&show_icons=true&theme=tokyonight&title_color=00ffff&icon_color=00ffff" width="48%"/>
@@ -50,11 +50,11 @@ Me encanta combinar el mundo físico y digital a través de proyectos con **hard
 
 ---
 
-## 📫 Conectemos
+## Conectemos
 
-📧 **Email:** [bryan.e.arredondo@gmail.com](mailto:bryan.e.arredondo@gmail.com)  
-🌐 **Portfolio:** *(¡Muy pronto disponible!)*  
-🎮 **Fun fact:** A veces hago debug mejor escuchando música 8-bit 🎧  
+**Email:** [bryan.e.arredondo@gmail.com](mailto:bryan.e.arredondo@gmail.com)  
+**Portfolio:** *(¡Muy pronto disponible!)*  
+**Fun fact:** A veces hago debug mejor escuchando música 8-bit 🎧  
 
 ---
 
