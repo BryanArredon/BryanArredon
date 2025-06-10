@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Gus Galvan
+# 👋 ¡Hola! Soy Bryan Emilio 
 
 ## 💻 Sobre mí
 🎓 Estudiante de Desarrollo de Software  
@@ -6,10 +6,10 @@
 🔧 Me encanta trabajar en proyectos de automatización, IoT y web apps  
 
 ## 🧠 Habilidades
-- Lenguajes: JavaScript, TypeScript, Dart, C++, Python  
-- Frameworks: Angular, Flutter, Node.js  
+- Lenguajes: JavaScript, TypeScript, Python  
+- Frameworks: Angular, Node.js  
 - Bases de Datos: MySQL, MongoDB  
-- Otras herramientas: Git, GitHub, Firebase, PlatformIO  
+- Otras herramientas: Git, GitHub
 
 ## 📈 Estadísticas de GitHub
 ![Tus stats](https://github-readme-stats.vercel.app/api?username=GusGalvan&show_icons=true&theme=radical)
@@ -21,6 +21,5 @@
 - 🌡️ Sistema de monitoreo ambiental con sensores y LCD
 
 ## 📫 Contáctame
-- Email: byemilio2005@gmail.com  
-- LinkedIn: *(pon tu link si tienes)*  
+- Email: bryan.e.arredondo@gmail.com  
 - Portfolio: *(si tienes uno, agrégalo)*  
