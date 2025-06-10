@@ -2,14 +2,14 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=header&text=¡Hola!%20Soy%20Bryan%20Emilio👋&fontColor=ffffff&fontSize=40&fontAlignY=35&desc=Bienvenido%20a%20mi%20perfil%20de%20GitHub&descAlignY=60" />
 </div>
 
-<h3 align="center">💻 Estudiante | 🤖 Creador de ideas | 🌐 Apasionado del desarrollo e innovación</h3>
+<h3 align="center"> Estudiante | Creador de ideas |  Apasionado del desarrollo e innovación</h3>
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
-✨ ¡Hola! Soy Bryan Emilio, un apasionado estudiante de **Desarrollo de Software** con una gran curiosidad por la tecnología.  
-💡 Me encanta combinar el mundo físico y digital a través de proyectos con **hardware, software e inteligencia práctica**.  
+¡Hola! Soy Bryan Emilio, un apasionado estudiante de **Desarrollo de Software** con una gran curiosidad por la tecnología.  
+Me encanta combinar el mundo físico y digital a través de proyectos con **hardware, software e inteligencia práctica**.  
 🔌 Siempre estoy en busca de nuevos retos donde pueda aplicar lo que aprendo y mejorar mis habilidades técnicas y creativas.
 
 ---
