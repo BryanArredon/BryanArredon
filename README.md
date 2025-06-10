@@ -14,7 +14,7 @@ Me encanta combinar el mundo físico y digital a través de proyectos con **hard
 
 ---
 
-## 🛠️ Tecnologías y Herramientas que uso
+##  Tecnologías y Herramientas que uso
 
 <p align="center">
   <!-- Lenguajes -->
@@ -51,13 +51,6 @@ Me encanta combinar el mundo físico y digital a través de proyectos con **hard
 
 ---
 
-## ✨ Proyectos que me enorgullecen
-- 🎄 Árbol navideño inteligente con ESP32, sensores y luces RGB  
-- 🧠 Sistema web para agendar citas psicológicas  
-- 🌡️ Monitoreo ambiental con DHT22, LCD y servos automatizados  
-
----
-
 ## 📫 Conectemos
 
 📧 **Email:** [bryan.e.arredondo@gmail.com](mailto:bryan.e.arredondo@gmail.com)  
@@ -67,5 +60,5 @@ Me encanta combinar el mundo físico y digital a través de proyectos con **hard
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFFF&center=true&width=435&lines=Gracias+por+visitar+mi+perfil!;Estoy+siempre+aprendiendo+algo+nuevo.;¡Sígueme+para+ver+mis+proyectos!+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFFF&center=true&width=435&lines=Gracias+por+visitar+mi+perfil!;Estoy+siempre+aprendiendo+algo+nuevo.;¡Sígueme+para+ver+mis+proyectos!+" />
 </div>
