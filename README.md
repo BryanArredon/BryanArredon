@@ -5,11 +5,33 @@
 🚀 Apasionado por la tecnología, el hardware y los proyectos creativos  
 🔧 Me encanta trabajar en proyectos de automatización, IoT y web apps  
 
-## 🧠 Habilidades
-- Lenguajes: JavaScript, TypeScript, Python  
-- Frameworks: Angular, Node.js  
-- Bases de Datos: MySQL, MongoDB  
-- Otras herramientas: Git, GitHub
+## 🧠 Tecnologías y Herramientas
+
+### 💻 Lenguajes
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+</p>
+
+### ⚙️ Frameworks y Librerías
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+</p>
+
+### 🗄️ Bases de Datos
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+</p>
+
+### 🛠️ Herramientas
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+</p>
+
 
 ## 📈 Estadísticas de GitHub
 ![Tus stats](https://github-readme-stats.vercel.app/api?username=GusGalvan&show_icons=true&theme=radical)
