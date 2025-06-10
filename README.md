@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Gus Galvan
 
-<!--
-**BryanArredon/BryanArredon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Sobre mí
+🎓 Estudiante de Desarrollo de Software  
+🚀 Apasionado por la tecnología, el hardware y los proyectos creativos  
+🔧 Me encanta trabajar en proyectos de automatización, IoT y web apps  
 
-Here are some ideas to get you started:
+## 🧠 Habilidades
+- Lenguajes: JavaScript, TypeScript, Dart, C++, Python  
+- Frameworks: Angular, Flutter, Node.js  
+- Bases de Datos: MySQL, MongoDB  
+- Otras herramientas: Git, GitHub, Firebase, PlatformIO  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Estadísticas de GitHub
+![Tus stats](https://github-readme-stats.vercel.app/api?username=GusGalvan&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=GusGalvan&layout=compact&theme=radical)
+
+## 📂 Algunos proyectos destacados
+- 🎄 Árbol navideño inteligente con ESP32  
+- 🧠 App de control de citas psicológicas  
+- 🌡️ Sistema de monitoreo ambiental con sensores y LCD
+
+## 📫 Contáctame
+- Email: byemilio2005@gmail.com  
+- LinkedIn: *(pon tu link si tienes)*  
+- Portfolio: *(si tienes uno, agrégalo)*  
