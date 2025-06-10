@@ -1,14 +1,19 @@
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
 </div>
 
-<h1 align="center">Hi, Soy Bryan Emilio<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
- 
+<h1 align="center">Hola, soy Bryan Emilio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/></h1>
+
+<p align="center">👨‍💻 Estudiante de Desarrollo de Software | Apasionado por la tecnología, hardware e innovación</p>
+
+---
+
 ## 💻 Sobre mí
-🎓 Estudiante de Desarrollo de Software  
-🚀 Apasionado por la tecnología, el hardware y los proyectos creativos  
-🔧 Me encanta trabajar en proyectos de automatización, IoT y web apps  
+- 🎓 Actualmente estudio **Desarrollo de Software**
+- 🚀 Me encanta aprender sobre **IoT, automatización y desarrollo web**
+- 🔧 Disfruto construir proyectos creativos que mezclen hardware y software
+
+---
 
 ## 🧠 Tecnologías y Herramientas
 
@@ -28,19 +33,20 @@
 
   <!-- Herramientas -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1200px-Github-desktop-logo-symbol.svg.png" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/>
 </p>
 
+---
 
 ## 📈 Estadísticas de GitHub
-![Tus stats](https://github-readme-stats.vercel.app/api?username=GusGalvan&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=GusGalvan&layout=compact&theme=radical)
 
-## 📂 Algunos proyectos destacados
-- 🎄 Árbol navideño inteligente con ESP32  
-- 🧠 App de control de citas psicológicas  
-- 🌡️ Sistema de monitoreo ambiental con sensores y LCD
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GusGalvan&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusGalvan&layout=compact&theme=radical" width="48%" />
+</p>
+
+---
 
 ## 📫 Contáctame
-- Email: bryan.e.arredondo@gmail.com  
-- Portfolio: *(si tienes uno, agrégalo)*  
+- ✉️ **Email:** [bryan.e.arredondo@gmail.com](mailto:bryan.e.arredondo@gmail.com)  
+- 🌐 **Portfolio:** *(Agrega el enlace cuando lo tengas)*  
