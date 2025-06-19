@@ -45,7 +45,7 @@ Siempre estoy en busca de nuevos retos donde pueda aplicar lo que aprendo y mejo
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BryanArredon&show_icons=true&theme=tokyonight&title_color=00ffff&icon_color=00ffff" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusGalvan&layout=compact&theme=tokyonight&title_color=00ffff" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanArredon&layout=compact&theme=tokyonight&title_color=00ffff" width="48%"/>
 </p>
 
 ---
