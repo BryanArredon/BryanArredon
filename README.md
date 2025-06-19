@@ -43,10 +43,15 @@ Siempre estoy en busca de nuevos retos donde pueda aplicar lo que aprendo y mejo
 
 ## Mis estadísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BryanArredon&show_icons=true&theme=tokyonight&title_color=00ffff&icon_color=00ffff" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanArredon&layout=compact&theme=tokyonight&title_color=00ffff" width="48%"/>
-</p>
+<p align="left">
+  <!--- stats (start) -->
+<table align="left">
+<tr border="none">
+<td width="50%" align="center">
+  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=ElioChiu&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ElioChiu&theme=dark&hide_border=false" /> 
+</td>
 
 ---
 
