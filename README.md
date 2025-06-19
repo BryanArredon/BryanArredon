@@ -60,9 +60,6 @@ Actualmente enfocado en expandir mis conocimientos en arquitectura de software y
 
 </div>
 
-<div align="center">
-</div>
-
 ---
 
 ## 🚀 Proyectos Destacados
