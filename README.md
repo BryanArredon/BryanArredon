@@ -1,77 +1,87 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=header&text=¡Hola!%20Soy%20Bryan%20Emilio👋&fontColor=ffffff&fontSize=40&fontAlignY=35&desc=Bienvenido%20a%20mi%20perfil%20de%20GitHub&descAlignY=60" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=header&text=¡Hola!%20Soy%20Bryan%20Emilio%20👋&fontColor=ffffff&fontSize=40&fontAlignY=35&desc=Desarrollador%20de%20Software%20%7C%20Innovador%20Tecnológico&descAlignY=60&animation=fadeIn" />
 </div>
 
-<h3 align="center"> Estudiante | Creador de ideas |  Apasionado del desarrollo e innovación</h3>
+<h3 align="center">🚀 Estudiante apasionado | Creador de soluciones | Amante del código limpio y eficiente</h3>
 
 ---
 
-## Sobre mí
+## 👨‍💻 Sobre mí
 
-¡Hola! Soy Bryan Emilio, un apasionado estudiante de **Desarrollo de Software** con una gran curiosidad por la tecnología.  
-Me encanta combinar el mundo físico y digital a través de proyectos con **hardware, software e inteligencia práctica**.  
-Siempre estoy en busca de nuevos retos donde pueda aplicar lo que aprendo y mejorar mis habilidades técnicas y creativas.
+Soy Bryan Emilio, un apasionado desarrollador en formación con especial interés en:
+- Desarrollo full-stack (JavaScript/TypeScript, Angular, Node.js)
+- Integración de hardware y software
+- Soluciones prácticas con Python
+- Creación de aplicaciones escalables y mantenibles
+
+Actualmente enfocado en expandir mis conocimientos en arquitectura de software y mejores prácticas de desarrollo. Siempre abierto a colaborar en proyectos interesantes y desafiantes.
 
 ---
 
-##  Tecnologías y Herramientas que uso
+## 🛠 Tecnologías y Herramientas
 
+### Lenguajes de Programación
 <p align="center">
-  <!-- Lenguajes -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" width="40" height="40"/>
-  
-  <!-- Frameworks -->
+</p>
+
+### Desarrollo Web
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" height="40"/>
+</p>
 
-  <!-- Bases de Datos -->
+### Bases de Datos
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40"/>
+</p>
 
-  <!-- Herramientas -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1200px-Github-desktop-logo-symbol.svg.png" title="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Terminal / Bash" width="40" height="40"/>
+### Herramientas
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" width="40" height="40"/>
 </p>
 
 ---
 
-## Mis estadísticas
+## 📊 Estadísticas de GitHub
 
-<p align="left">
-  <!--- stats (start) -->
-<table align="left">
-<tr border="none">
-<td width="50%" align="center">
-  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=ElioChiu&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ElioChiu&theme=dark&hide_border=false" /> 
-</td>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElioChiu&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElioChiu&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
+</div>
 
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ElioChiu&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
-
-  </td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElioChiu&theme=dark&hide_border=true" />
+</div>
 
 ---
 
-## Conectemos
+## 🚀 Proyectos Destacados
 
-**Email:** [bryan.e.arredondo@gmail.com](mailto:bryan.e.arredondo@gmail.com)  
-**Portfolio:** *(¡Muy pronto disponible!)*  
-**Fun fact:** A veces hago debug mejor escuchando música 8-bit 🎧  
+- [Nombre del Proyecto](https://github.com/ElioChiu/repo) - Breve descripción del proyecto y su propósito
+- [Otro Proyecto](https://github.com/ElioChiu/repo) - Qué problema resuelve o qué tecnologías utiliza
+
+---
+
+## 📬 Contacto
+
+- 📧 **Correo:** [bryan.e.arredondo@gmail.com](mailto:bryan.e.arredondo@gmail.com)
+- 💼 **LinkedIn:** [Tu perfil de LinkedIn](https://linkedin.com/in/tuperfil) *(recomiendo añadirlo)*
+- 🐦 **Twitter:** [@tu_usuario](https://twitter.com/tuusuario) *(opcional)*
+- 🎨 **Portfolio:** En desarrollo - ¡Próximamente!
+
+**Dato curioso:** Programo mejor con música de videojuegos retro 🎮🎧
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFFF&center=true&width=435&lines=Gracias+por+visitar+mi+perfil!;Estoy+siempre+aprendiendo+algo+nuevo.;¡Sígueme+para+ver+mis+proyectos!+" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFFF&center=true&width=435&lines=¡Gracias+por+visitar+mi+perfil!;Código+limpio%2C+soluciónes+eficientes.;Aprendiendo%2C+creando%2C+innovando...;Open+to+collaborate+%F0%9F%91%8B" />
 </div>
