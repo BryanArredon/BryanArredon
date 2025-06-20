@@ -26,7 +26,6 @@ Actualmente enfocado en expandir mis conocimientos en arquitectura de software y
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="40" height="40"/>
-  <img src="https://juanmanuellopezduran.wordpress.com/wp-content/uploads/2020/06/spring-boot-ok.png" title="C" width="40" height="40"/>
 
 </p>
 
@@ -51,10 +50,7 @@ Actualmente enfocado en expandir mis conocimientos en arquitectura de software y
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" width="40" height="40"/>
   <img src="https://navicat-distributor.in.th/wp-content/uploads/2024/07/navicat-premium-logo.png" title="Bash" width="40" height="40"/>
   <img src="https://testingbaires.com/wp-content/uploads/2020/03/intellij-idea_logo_300x300.png" title="Bash" width="40" height="40"/>
-    <img src="https://juanmanuellopezduran.wordpress.com/wp-content/uploads/2020/06/spring-boot-ok.png" title="C" width="40" height="40"/>
-
-
-
+    <img src="https://juanmanuellopezduran.wordpress.com/wp-content/uploads/2020/06/spring-boot-ok.png" title="C" width="50" height="50"/>
 </p>
 
 ---
