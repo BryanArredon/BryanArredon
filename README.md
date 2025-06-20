@@ -26,6 +26,8 @@ Actualmente enfocado en expandir mis conocimientos en arquitectura de software y
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="40" height="40"/>
+  <img src="https://juanmanuellopezduran.wordpress.com/wp-content/uploads/2020/06/spring-boot-ok.png" title="C" width="40" height="40"/>
+
 </p>
 
 ### Desarrollo Web
