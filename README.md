@@ -2,11 +2,11 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=header&text=¡Hola!%20Soy%20Bryan%20Emilio%20👋&fontColor=ffffff&fontSize=40&fontAlignY=35&desc=Desarrollador%20de%20Software%20%7C%20Innovador%20Tecnológico&descAlignY=60&animation=fadeIn" />
 </div>
 
-<h3 align="center">🚀 Estudiante apasionado | Creador de soluciones | Amante del código limpio y eficiente</h3>
+<h3 align="center">Estudiante apasionado | Creador de soluciones | Amante del código limpio y eficiente</h3>
 
 ---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
 Soy Bryan Emilio, un apasionado desarrollador en formación con especial interés en:
 
@@ -19,7 +19,7 @@ Actualmente enfocado en expandir mis conocimientos en arquitectura de software y
 
 ---
 
-## 🛠 Tecnologías y Herramientas
+## Tecnologías y Herramientas
 
 ### Lenguajes de Programación
 <p align="center">
@@ -67,7 +67,7 @@ Actualmente enfocado en expandir mis conocimientos en arquitectura de software y
 
 
 
-## 📬 Contacto
+##Contacto
 
 <p align="center">
   <a href="mailto:bryan.e.arredondo@gmail.com">
@@ -75,8 +75,6 @@ Actualmente enfocado en expandir mis conocimientos en arquitectura de software y
   </a>
   
 </p>
-
-**Dato curioso:** Programo mejor con música de videojuegos retro 🎮🎧
 
 ---
 
