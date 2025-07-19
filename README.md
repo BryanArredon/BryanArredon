@@ -8,7 +8,7 @@
 
 ## Sobre mí
 
-Soy Bryan Emilio, un apasionado desarrollador en formación con especial interés en:
+Soy Bryan Emilio, con interes en crear aplicaciones especializandome en Tecnologias como:
 
 - Desarrollo full-stack (Angular, Node.js y Spring Boot)
 - Creación de aplicaciones escalables y mantenibles
