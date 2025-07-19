@@ -11,8 +11,6 @@
 Soy Bryan Emilio, un apasionado desarrollador en formación con especial interés en:
 
 - Desarrollo full-stack (JavaScript/TypeScript, Angular, Node.js)
-- Integración de hardware y software
-- Soluciones prácticas con Python
 - Creación de aplicaciones escalables y mantenibles
 
 Actualmente enfocado en expandir mis conocimientos en arquitectura de software y mejores prácticas de desarrollo. Siempre abierto a colaborar en proyectos interesantes y desafiantes.
@@ -57,7 +55,7 @@ Actualmente enfocado en expandir mis conocimientos en arquitectura de software y
 
 ---
 
-## 📊 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BryanArredon&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
