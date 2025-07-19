@@ -10,7 +10,7 @@
 
 Soy Bryan Emilio, un apasionado desarrollador en formación con especial interés en:
 
-- Desarrollo full-stack (JavaScript/TypeScript, Angular, Node.js)
+- Desarrollo full-stack (Angular, Node.js y Spring Boot)
 - Creación de aplicaciones escalables y mantenibles
 
 Actualmente enfocado en expandir mis conocimientos en arquitectura de software y mejores prácticas de desarrollo. Siempre abierto a colaborar en proyectos interesantes y desafiantes.
