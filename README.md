@@ -30,7 +30,7 @@ Actualmente enfocado en expandir mis conocimientos en arquitectura de software y
 ### 💻 Desarrollo Web
 <div align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26?size=40" alt="HTML5" />
-  <img src="https://worldvectorlogo.com/logo/css-3?size=40"/>
+  <img src="https://worldvectorlogo.com/logo/css-3?size=40" alt="CSS" />
   <img src="https://cdn.simpleicons.org/angularjs/E23237?size=40" alt="Angular" />
   <img src="https://cdn.simpleicons.org/nodejs/339933?size=40" alt="Node.js" />
 </div>
