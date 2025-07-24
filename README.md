@@ -31,7 +31,7 @@ Actualmente enfocado en expandir mis conocimientos en arquitectura de software y
 <div align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26?size=40" alt="HTML5" />
   <img src="https://img.icons8.com/?size=512&id=21278&format=png?size=40" alt="CSS" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png?size=10" alt="Angular" />
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/angular-icon-1-logo-png-transparent.png?size=40" alt="Angular" />
   <img src="https://cdn.simpleicons.org/nodejs/339933?size=40" alt="Node.js" />
 </div>
 
