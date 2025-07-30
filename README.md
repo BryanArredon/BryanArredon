@@ -6,7 +6,7 @@
 
 ---
 
-## Sobre mi
+## Sobre mí
 
 Soy Bryan Emilio, un desarrollador de software con enfoque en crear soluciones tecnológicas efectivas. Mis áreas de interés incluyen:
 
@@ -19,34 +19,28 @@ Actualmente enfocado en expandir mis conocimientos en arquitectura de software y
 
 ---
 
-## Habilidades Tecnicas
+## Habilidades Técnicas
 
-### Lenguajes de Programacion
 <div align="center">
+  <!-- Lenguajes -->
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
-</div>
-
-### Desarrollo Web
-<div align="center">
+  
+  <!-- Web -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
-</div>
-
-### Bases de Datos
-<div align="center">
+  
+  <!-- Bases de datos -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-</div>
-
-### Herramientas
-<div align="center">
+  
+  <!-- Herramientas -->
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Navicat-3196D9?style=flat&logo=navicat&logoColor=white" alt="Navicat" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
@@ -58,7 +52,7 @@ Actualmente enfocado en expandir mis conocimientos en arquitectura de software y
 
 ---
 
-## Estadisticas de GitHub
+## Estadísticas de GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BryanArredon&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
