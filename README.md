@@ -1,3 +1,5 @@
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=header&text=¡Hola!%20Soy%20Bryan%20Emilio&fontColor=ffffff&fontSize=40&fontAlignY=35&desc=Desarrollador%20de%20Software%20%7C%20Innovador%20Tecnológico&descAlignY=60&animation=fadeIn" />
 </div>
