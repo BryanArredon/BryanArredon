@@ -1,7 +1,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:ff0000&height=120&section=header&text=¡Hola!%20Soy%20Bryan%20Emilio&fontColor=ffffff&fontSize=40&fontAlignY=35&desc=Desarrollador%20de%20Software%20%7C%20Innovador%20Tecnológico&descAlignY=60&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:ff0000&height=120&section=header&text=¡Hola!%20Soy%20Bryan%20Emilio&fontColor=ffffff&fontSize=40&fontAlignY=35&animation=fadeIn" />
 </div>
 
 <h3 align="center">Estudiante apasionado | Creador de soluciones | Amante del código limpio y eficiente</h3>
