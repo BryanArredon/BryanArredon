@@ -1,9 +1,7 @@
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=header&text=¡Hola!%20Soy%20Bryan%20Emilio&fontColor=ffffff&fontSize=40&fontAlignY=35&desc=Desarrollador%20de%20Software%20%7C%20Innovador%20Tecnológico&descAlignY=60&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:ff0000&height=120&section=header&text=¡Hola!%20Soy%20Bryan%20Emilio&fontColor=ffffff&fontSize=40&fontAlignY=35&desc=Desarrollador%20de%20Software%20%7C%20Innovador%20Tecnológico&descAlignY=60&animation=fadeIn" />
 </div>
 
 <h3 align="center">Estudiante apasionado | Creador de soluciones | Amante del código limpio y eficiente</h3>
@@ -25,7 +23,7 @@ Actualmente enfocado en expandir mis conocimientos en arquitectura de software y
 
 ## Habilidades Técnicas
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <!-- Lenguajes -->
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -58,7 +56,7 @@ Actualmente enfocado en expandir mis conocimientos en arquitectura de software y
 
 ## Estadísticas de GitHub
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BryanArredon&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanArredon&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BryanArredon&theme=radical&hide_border=true"/>
