@@ -71,9 +71,6 @@ Actualmente profundizando en arquitecturas de microservicios y computación en l
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFFF&center=true&width=435&lines=Transformando+ideas+en+soluciones+digitales;Código+limpio+%7C+Arquitecturas+sólidas+%7C+Mejores+prácticas;Abierto+a+nuevos+desafíos+y+colaboraciones" alt="Mensaje profesional dinámico"/>
-</div>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
 
