@@ -3,7 +3,7 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif" alt="Banner tecnológico">
 
-<h2 aling="center">Hola, soy Bryan Emilio Arredondo López<h2>
+<h3 aling="center">Hola, soy Bryan Emilio Arredondo López<h3>
 <h3 align="center">Desarrollador Full-Stack | Especialista en Soluciones Tecnológicas | Enfoque en Código Limpio y Arquitecturas Sólidas</h3>
 
 ---
