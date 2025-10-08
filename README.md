@@ -17,7 +17,7 @@ Soy Bryan Emilio, desarrollador de software con experiencia en diseño e impleme
 - Optimización de rendimiento y UX
 - Colaboración en equipos ágiles multidisciplinarios
 
-Actualmente profundizando en arquitecturas de software, siempre buscando oportunidades de crecimiento profesional a través de proyectos desafiantes.
+Actualmente aprendiendo arquitecturas de software, siempre buscando oportunidades de crecimiento profesional a través de proyectos desafiantes.
 
 ---
 
