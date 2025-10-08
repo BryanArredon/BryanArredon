@@ -47,14 +47,26 @@ Actualmente profundizando en arquitecturas de software, siempre en busca de opor
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BryanArredon&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Estadísticas GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanArredon&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Lenguajes más utilizados"/>
+
+![](https://github-readme-stats.vercel.app/api?username=BryanArredon&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
+<br>
+
 </div>
 
-### 🔥 Racha de contribuciones
+### 💳 Tarjeta de Resumen del Perfil
 
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=BryanArredon&theme=radical&hide_border=true" alt="Racha de contribuciones" />
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BryanArredon&theme=github_dark)
+  
+</div>
+
+### ⏱ Estadísticas de Racha
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BryanArredon&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
+
 </div>
 
 ### 📈 Gráfica de actividad
