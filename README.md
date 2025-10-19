@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador%20Full-Stack;Especialista%20en%20Back%20End;Arquitecturas%20sólidas;Código%20limpio%20y%20escalable;Siempre%20aprendiendo%20%F0%9F%93%9A&font=Fira%20Code&center=true&width=440&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=DesarrolladorBack%20End;Arquitecturas%20sólidas;Código%20limpio%20y%20escalable;Siempre%20aprendiendo%20%F0%9F%93%9A&font=Fira%20Code&center=true&width=440&height=45">
   </a>
 </p>
 
