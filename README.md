@@ -15,11 +15,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/BryanArredon">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=BryanArredon.BryanArredon" alt="Visitas" />
-  </a>
-</p>
 
 ---
 
