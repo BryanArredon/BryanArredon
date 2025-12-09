@@ -11,27 +11,26 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=DesarrolladorBack%20End;Arquitecturas%20sólidas;Código%20limpio%20y%20escalable;Siempre%20aprendiendo%20%F0%9F%93%9A&font=Fira%20Code&center=true&width=440&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador%20Back%20End;Arquitecturas%20de%20software;Código%20limpio%20y%20escalable;Siempre%20aprendiendo%20📚&font=Fira%20Code&center=true&width=440&height=45">
   </a>
 </p>
-
 
 ---
 
 ## Perfil Profesional
 
-Soy Bryan Emilio, desarrollador de software con experiencia en diseño e implementación de soluciones tecnológicas escalables. Mi enfoque profesional se basa en:
+Soy Bryan Emilio, desarrollador de software enfocado en construir soluciones eficientes, escalables y mantenibles. Mi trabajo se distingue por:
 
 - Desarrollo de aplicaciones web y móviles con arquitecturas modernas  
-- Implementación de mejores prácticas de codificación y patrones de diseño  
-- Optimización de rendimiento y experiencia de usuario (UX)  
-- Colaboración en equipos ágiles multidisciplinarios  
+- Uso de patrones de diseño y buenas prácticas de ingeniería  
+- Optimización del rendimiento y mejora de la experiencia del usuario  
+- Colaboración en equipos ágiles y orientación a resultados  
 
-Actualmente profundizando en arquitecturas de software, siempre en busca de oportunidades de crecimiento profesional mediante proyectos desafiantes.
+Actualmente estoy profundizando en arquitecturas de software y busco proyectos que impulsen mi crecimiento técnico y profesional.
 
 ---
 
-## Herramientas y Tecnologías que uso
+## Herramientas y Tecnologías
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,ts,js,angular,html,css,nodejs,spring,mongodb,mysql,mssql,git,postman,vscode" />
@@ -48,7 +47,7 @@ Actualmente profundizando en arquitecturas de software, siempre en busca de opor
 
 </div>
 
-### 💳 Tarjeta de Resumen del Perfil
+### 💳 Tarjeta de Resumen
 
 <div align="center">
   
@@ -56,14 +55,15 @@ Actualmente profundizando en arquitecturas de software, siempre en busca de opor
   
 </div>
 
-### ⏱ Estadísticas de Racha
+### 🔥 Racha de Contribuciones
 
 <div align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BryanArredon&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
 
 </div>
 
-### 📈 Gráfica de actividad
+### 📈 Actividad Reciente
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BryanArredon&theme=react-dark&hide_border=true" alt="Gráfica de actividad" />
@@ -81,15 +81,14 @@ Actualmente profundizando en arquitecturas de software, siempre en busca de opor
 
 <div align="center">
   <a href="mailto:bryan.e.arredondo@gmail.com">
-    <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contacto por correo"/>
+    <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"/>
   </a>
   <a href="https://linkedin.com/in/tu-perfil">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Perfil LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
 
 ---
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
-
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
