@@ -30,7 +30,7 @@ Actualmente estoy profundizando en arquitecturas de software y busco proyectos q
 
 ---
 
-## Herramientas y Tecnologías
+## 🛠️ Herramientas y Tecnologías
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,ts,js,angular,html,css,nodejs,spring,mongodb,mysql,mssql,git,postman,vscode" />
@@ -38,42 +38,29 @@ Actualmente estoy profundizando en arquitecturas de software y busco proyectos q
 
 ---
 
+## 📈 Actividad Isométrica (Lo que querías añadir)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BryanArredon&theme=react-dark&area=true&hide_border=true&custom_title=Contribuciones%20Recientes" width="100%" />
+</div>
+
+---
+
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=BryanArredon&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=BryanArredon&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanArredon&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<img src="https://github-readme-stats.vercel.app/api?username=BryanArredon&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=BryanArredon&theme=dark&hide_border=false" /><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanArredon&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
-### 💳 Tarjeta de Resumen
+### 🏆 Trofeos y Racha
 
 <div align="center">
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BryanArredon&theme=github_dark)
-  
-</div>
-
-### 🔥 Racha de Contribuciones
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BryanArredon&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
-
-</div>
-
-### 📈 Actividad Reciente
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BryanArredon&theme=react-dark&hide_border=true" alt="Gráfica de actividad" />
-</div>
-
-### 🏆 Trofeos de GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BryanArredon&theme=radical&no-frame=true&margin-w=4&margin-h=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=BryanArredon&theme=radical&no-frame=true&margin-w=4&margin-h=4" />
+  <br/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=BryanArredon&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF" />
+  </a>
 </div>
 
 ---
