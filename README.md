@@ -42,8 +42,9 @@ Actualmente estoy profundizando en arquitecturas de software y busco proyectos q
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=BryanArredon&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
-<br>
+![](https://github-readme-stats.vercel.app/api?username=BryanArredon&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=BryanArredon&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanArredon&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
