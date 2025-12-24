@@ -10,32 +10,23 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador%20Back%20End;Arquitecturas%20de%20software;Código%20limpio%20y%20escalable;Siempre%20aprendiendo%20📚&font=Fira%20Code&center=true&width=440&height=45">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador%20Back%20End;Arquitecturas%20de%20software;Código%20limpio%20y%20escalable;Siempre%20aprendiendo%20📚&font=Fira%20Code&center=true&width=440&height=45">
+  </a>
 </p>
 
 ---
 
-## 📊 Estadísticas de GitHub
+## Perfil Profesional
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BryanArredon&show_icons=true&theme=dark&hide_border=false" alt="Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanArredon&layout=compact&theme=dark&hide_border=false" alt="Languages" />
-</div>
+Soy Bryan Emilio, desarrollador de software enfocado en construir soluciones eficientes, escalables y mantenibles. Mi trabajo se distingue por:
 
-### 🏆 Trofeos y Racha
+- Desarrollo de aplicaciones web y móviles con arquitecturas modernas  
+- Uso de patrones de diseño y buenas prácticas de ingeniería  
+- Optimización del rendimiento y mejora de la experiencia del usuario  
+- Colaboración en equipos ágiles y orientación a resultados  
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BryanArredon&theme=radical&no-frame=true" alt="Trophy" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=BryanArredon&theme=dracula&background=1E2B3C&border=B2E0FF" alt="Streak" />
-</div>
-
-### 📈 Gráfica de Actividad (El estilo que buscabas)
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BryanArredon&theme=react-dark&hide_border=true&area=true" width="100%" />
-</div>
+Actualmente estoy profundizando en arquitecturas de software y busco proyectos que impulsen mi crecimiento técnico y profesional.
 
 ---
 
@@ -47,14 +38,41 @@
 
 ---
 
+## 📈 Actividad Isométrica (Lo que querías añadir)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BryanArredon&theme=react-dark&area=true&hide_border=true&custom_title=Contribuciones%20Recientes" width="100%" />
+</div>
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=BryanArredon&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=BryanArredon&theme=dark&hide_border=false" /><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanArredon&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</div>
+
+### 🏆 Trofeos y Racha
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BryanArredon&theme=radical&no-frame=true&margin-w=4&margin-h=4" />
+  <br/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=BryanArredon&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF" />
+  </a>
+</div>
+
+---
+
 ## Contacto Profesional
 
 <div align="center">
   <a href="mailto:bryan.e.arredondo@gmail.com">
-    <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"/>
   </a>
   <a href="https://linkedin.com/in/tu-perfil">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
 
