@@ -39,10 +39,13 @@ Actualmente estoy profundizando en arquitecturas de software y busco proyectos q
 ---
 
 ## 📈 Actividad Isométrica (Lo que querías añadir)
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BryanArredon&theme=react-dark&area=true&hide_border=true&custom_title=Contribuciones%20Recientes" width="100%" />
-</div>
-
+ 
+ <div align=center>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BryanArredon-Alhamod&theme=github_dark)
+  
+ </div>
+ 
 ---
 
 ## 📊 Estadísticas de GitHub
