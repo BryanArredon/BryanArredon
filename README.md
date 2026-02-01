@@ -47,11 +47,12 @@ Actualmente estoy profundizando en arquitecturas de software y busco proyectos q
 
 ## 📊 Estadísticas de GitHub
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=BryanArredon&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=BryanArredon&theme=dark&hide_border=false" /><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanArredon&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</div>
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ### 🏆 Trofeos y Racha
 
