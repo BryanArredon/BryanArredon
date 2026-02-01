@@ -72,7 +72,7 @@ Actualmente estoy profundizando en arquitecturas de software y busco proyectos q
   <a href="mailto:bryan.e.arredondo@gmail.com">
     <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"/>
   </a>
-  <a href="https://linkedin.com/in/tu-perfil">
+  <a href="https://www.linkedin.com/in/bryan-emilio-arredondo-lopez-332a582b7/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
