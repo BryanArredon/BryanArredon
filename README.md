@@ -38,13 +38,14 @@ Actualmente estoy profundizando en arquitecturas de software y busco proyectos q
 
 ---
 
+ 
 ## 📈 Actividad
  
- <div align=center>
+<div align="center">
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BryanArredon-Alhamod&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BryanArredon&theme=github_dark)
   
- </div>
+</div>
  
 ---
 
