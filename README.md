@@ -38,7 +38,7 @@ Actualmente estoy profundizando en arquitecturas de software y busco proyectos q
 
 ---
 
-## 📈 Actividad Isométrica (Lo que querías añadir)
+## 📈 Actividad
  
  <div align=center>
   
