@@ -33,7 +33,7 @@ Actualmente estoy profundizando en arquitecturas de software y busco proyectos q
 ## 🛠️ Herramientas y Tecnologías
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,ts,js,angular,html,css,nodejs,spring,mongodb,mysql,mssql,git,postman,vscode,r,supabase,docker" />
+  <img src="https://skillicons.dev/icons?i=java,ts,js,angular,html,css,nodejs,spring,mongodb,mysql,mssql,postman,vscode,r,supabase,docker,swagger,next" />
 </div>
 
 ---
