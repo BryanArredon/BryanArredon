@@ -35,7 +35,12 @@ Actualmente estoy profundizando en arquitecturas de software y busco proyectos q
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,ts,js,angular,html" />
   <img src="https://skillicons.dev/icons?i=css,nodejs,spring,mongodb,postman,vscode,r,supabase,docker,next" />
-
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=css,nodejs,spring,mongodb,postman,vscode,r,supabase,docker,next" />
+</div>
+</div>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=css,nodejs,spring,mongodb,postman,vscode,r,supabase,docker,next" />
 </div>
 
 ---
