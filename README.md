@@ -70,7 +70,7 @@ Actualmente estoy profundizando en arquitecturas de software y busco proyectos q
   <img src="https://github-profile-trophy.vercel.app/?username=BryanArredon&theme=radical&no-frame=true&margin-w=4&margin-h=4" />
   <br/>
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=BryanArredon&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=BryanArredon&theme=transparent&hide_border=true&border_radius=5.2&locale=es"   alt="GitHub Streak" /></a>>
   </a>
 </div>
 
